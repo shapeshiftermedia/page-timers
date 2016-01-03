@@ -1,22 +1,4 @@
-#timercontainer { margin-top: 10px; text-align:center;}
-.timer { clear: both; font-family: 'digital-7regular'; font-size: 90px; color: #E90018;line-height: 1.1em;}
-.timer div{ text-align: center; display:inline-block; padding:0; margin:0;} 
-.timer em {font-style:normal; display:inline-block; padding:0 8px; margin:0;}
-.timer span { display:block;font-size: 17px; color: #E90018; font-family: 'Raleway', sans-serif; font-weight: 500;line-height: 10px;padding-bottom: 7px;  }
-
-#timercontainer2 { margin-top: 10px; text-align:center;}
-.timer { clear: both; font-family: 'digital-7regular'; font-size: 90px; color: #E90018;line-height: 1.1em;}
-.timer div{ text-align: center; display:inline-block; padding:0; margin:0;} 
-.timer em {font-style:normal; display:inline-block; padding:0 8px; margin:0;}
-.timer span { display:block;font-size: 17px; color: #E90018; font-family: 'Raleway', sans-serif; font-weight: 500;line-height: 10px;padding-bottom: 7px;  }
-
-#timercontainer3 { margin-top: 10px; text-align:center;}
-.timer { clear: both; font-family: 'digital-7regular'; font-size: 90px; color: #E90018;line-height: 1.1em;}
-.timer div{ text-align: center; display:inline-block; padding:0; margin:0;} 
-.timer em {font-style:normal; display:inline-block; padding:0 8px; margin:0;}
-.timer span { display:block;font-size: 17px; color: #E90018; font-family: 'Raleway', sans-serif; font-weight: 500;line-height: 10px;padding-bottom: 7px;  }
-
-#timercontainer4 { margin-top: 10px; text-align:center;}
+#timercontainer,#timercontainer2,#timercontainer3,#timercontainer4 { margin-top: 10px; text-align:center;}
 .timer { clear: both; font-family: 'digital-7regular'; font-size: 90px; color: #E90018;line-height: 1.1em;}
 .timer div{ text-align: center; display:inline-block; padding:0; margin:0;} 
 .timer em {font-style:normal; display:inline-block; padding:0 8px; margin:0;}
